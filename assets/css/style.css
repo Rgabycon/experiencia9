@@ -1,0 +1,47 @@
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+.h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.logo-img{
+    width: 150px;
+}
+
+.principal {
+    background-color: #e56353;
+    text-align: center;
+    padding: 5rem;
+}
+
+.principal__title {
+    color: #ffffff;
+    font-size: 3rem;
+}
+.principal__title--bold{
+    font-weight: bold;
+}
+.bloque__principal{
+    height: 500px;
+}
+.bloque__principal--img{
+    max-width: 100%;
+    width: 100%;
+}
+
+.bloque__principal--gris {
+    background-color: #707070;
+    color: #ffffff;
+}
+
+.bloque__principal--blanco {
+    background-color: #fafafa;
+    color: #e56353;
+}
